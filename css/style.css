@@ -9,3 +9,10 @@ section.hero {
 .heroText {
     padding-top: 30vh;
 }
+section#picNav {
+    display: flex;
+}
+.fourPanel {
+    width: 50%;
+    height: 300px;
+}
